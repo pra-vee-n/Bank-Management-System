@@ -28,9 +28,9 @@ Although technology streamlines many manual activities for the bank, the securit
 
 ->  Advantages of Bank Management system: -
 
-1.     As there won't be any physical files or data sheets to handle, the task will not only be easier but also completed at a much faster rate thanks to the system and machine.
+1. As there won't be any physical files or data sheets to handle, the task will not only be easier but also completed at a much faster rate thanks to the system and machine.
 
-2.     With increased customer transparency and quick service, it will naturally win the trust of consumers.
+2. With increased customer transparency and quick service, it will naturally win the trust of consumers.
 
-3.     The information about the customer, or if the customer wants to know their information, will be just a few clicks away.
+3. The information about the customer, or if the customer wants to know their information, will be just a few clicks away.
 
